@@ -1,1 +1,1 @@
-Simple program, you write your your connected string with the password and it puts the password into your clipboard. As of right now no txt files reading gotta modify the file internally
+If you want to use this program I recommend reading the source code, it's very simple. Dm for questions if needed.
